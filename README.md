@@ -1,2 +1,0 @@
-# superfile
- ATUIi file manager
