@@ -12,7 +12,7 @@
 
 
 #═══════════════ CONFIG ════════════════╗
-editor = "codium"                      #║
+editor = "nvim"                        #║
 dir_editor = "thunar"                  #║
 auto_check_update = true               #║
 cd_on_quit = true                      #║
